@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use or refer to this work, please cite it as below."
+type: dataset
+title: "Arithmetic Spectral Descent"
+abstract: "Obstruction Theory, Hodge–Krein Realization, and a Falsifiable Architecture for the Riemann Hypothesis. A monograph in four volumes bound as one, a self-contained research subject of the Grothendieckian Programme: obstruction theory for the Riemann Hypothesis, a proved conditional derivation from three unconstructed realization hypotheses, and the obligations that remain. The Riemann Hypothesis remains open."
+authors:
+  - family-names: "Liu"
+    given-names: "Vincent"
+    email: "elsevier2012@hotmail.com"
+version: "1.0.0"
+date-released: "2026-10-22"
+doi: "10.5281/zenodo.23564898"
+license: "CC-BY-NC-ND-4.0"
+url: "https://github.com/AlienMuse/arithmetic-spectral-descent"
+keywords:
+  - "Riemann Hypothesis"
+  - "Riemann zeta function"
+  - "generalized Riemann hypothesis"
+  - "explicit formula"
+  - "Weil positivity"
+  - "spectral realization of zeros"
+  - "Hilbert–Pólya programme"
+  - "Krein spaces"
+  - "indefinite inner product"
+  - "Hodge–Krein realization"
+  - "no-go theorems"
+  - "function-field Riemann hypothesis"
+  - "Weil conjectures"
+  - "topological Hochschild homology"
+  - "topological cyclic homology"
+  - "prismatic cohomology"
+  - "absolute arithmetic geometry"
+  - "de Bruijn–Newman constant"
+  - "certified computation"
+  - "Grothendieckian Programme"
+  - "recursive mathematical discovery"
+  - "AI for mathematics"
+preferred-citation:
+  type: book
+  title: "Arithmetic Spectral Descent — Obstruction Theory, Hodge–Krein Realization, and a Falsifiable Architecture for the Riemann Hypothesis"
+  authors:
+    - family-names: "Liu"
+      given-names: "Vincent"
+  year: 2026
+  edition: "Research Architecture Edition 1"
+  collection-title: "WiseMotif Monograph of Mathematical Intelligence, Series 03"
+  publisher:
+    name: "Zenodo"
+  doi: "10.5281/zenodo.23564898"
+  url: "https://doi.org/10.5281/zenodo.23564898"

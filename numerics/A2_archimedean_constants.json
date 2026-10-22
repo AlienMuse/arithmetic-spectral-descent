@@ -1,0 +1,7 @@
+{
+  "gamma_1": 14.134725141734695,
+  "sum_rho_abs_Gamma_rho": 1.1417900839074602e-09,
+  "sum_rho_abs_Gamma_rho_squared": 6.518161440195418e-19,
+  "comment": "Under RH, |Gamma(1/2+i gamma)|^2 = pi sech(pi gamma) exactly; these are the amplitudes of the fully diagonal level-2 term and of the level-1 term in the LAPLACE form of the k-linear explicit formula. Their minuteness is the amplification-amplitude trade-off: each extra level costs a factor ~ e^{-pi gamma_1 / 2} = 2.277e-10.",
+  "cost_per_level_exp_factor": 2.2774960073094776e-10
+}

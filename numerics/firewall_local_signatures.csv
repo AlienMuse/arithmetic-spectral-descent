@@ -1,0 +1,5 @@
+object,orbit_type,representative_beta,representative_gamma,local_positive_index,local_negative_index,comment
+Davenport-Heilbronn,complex quartet,0.808517,85.699348,2,2,published numerical off-line zero; quartet block
+Beurling DMV,no functional-equation pairing supplied,,,,,Krein/HR hypothesis is inapplicable: no centered duality
+Selberg exceptional eigenvalue,real reflected pair,1/2+sqrt(1/4-lambda_1),0,1,1,one exceptional eigenvalue is compatible with index one
+Epstein class number > 1,complex quartet,>1/2,>0,2,2,Davenport-Heilbronn theorem forces off-line quartets

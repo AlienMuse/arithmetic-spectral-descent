@@ -1,0 +1,34 @@
+{
+  "basis": "centered cubic B-spline translates",
+  "T_values": [
+    0.15,
+    0.25,
+    0.35,
+    0.5,
+    0.75,
+    1.0,
+    1.5,
+    2.0,
+    3.0
+  ],
+  "N_values": [
+    4,
+    8,
+    16,
+    24,
+    32,
+    48,
+    64
+  ],
+  "rows": 63,
+  "full_form_negative_indices": [
+    0
+  ],
+  "reduced_form_negative_indices": [
+    1
+  ],
+  "files": [
+    "weil_spline_inertia.csv",
+    "weil_component_signatures.csv"
+  ]
+}
