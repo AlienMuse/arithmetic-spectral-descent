@@ -6,7 +6,9 @@ abstract: "Obstruction Theory, Hodge–Krein Realization, and a Falsifiable Arch
 authors:
   - family-names: "Liu"
     given-names: "Vincent"
+    affiliation: "WiseMotif.ai"
     email: "elsevier2012@hotmail.com"
+    orcid: "https://orcid.org/0009-0000-8718-222X"
 version: "1.0.0"
 date-released: "2026-10-22"
 doi: "10.5281/zenodo.23564898"
@@ -41,6 +43,8 @@ preferred-citation:
   authors:
     - family-names: "Liu"
       given-names: "Vincent"
+      affiliation: "WiseMotif.ai"
+      orcid: "https://orcid.org/0009-0000-8718-222X"
   year: 2026
   edition: "Research Architecture Edition 1"
   collection-title: "WiseMotif Monograph of Mathematical Intelligence, Series 03"
